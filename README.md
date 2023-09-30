@@ -1,6 +1,6 @@
 -👋 Hi, I’m Punjitha aka @algotyrnt
 👀 I’m interested in app & game development, cyber security and AI.
-🌱 I’m currently learning at IIT Sri Lanka.
+🌱 I’m currently studying at IIT Sri Lanka.
 📫 punjitha@gmail.com
 
 <!---

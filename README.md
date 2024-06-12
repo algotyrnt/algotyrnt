@@ -1,4 +1,4 @@
--👋 Hi, I’m Punjitha aka @algotyrnt
+-👋 Hi, I’m Punjitha.
 👀 I’m interested in app & game development, cyber security, quantum computing and AI.
 🌱 I’m currently studying computer science at the Informatics Institute of Technology.
 📫 punjitha@gmail.com

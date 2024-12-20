@@ -23,8 +23,8 @@ I'm passionate about dev ops, machine learning, cyber security and quantum compu
 - Build scalable and innovative applications.
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/punjitha/)
-- GitHub: [Your GitHub Profile](https://github.com/algotyrnt)
+- [LinkedIn: ](https://www.linkedin.com/in/punjitha/)
+- [GitHub: ](https://github.com/algotyrnt)
 
 ## 🤝 Let's Collaborate!
 If you have an exciting project or idea, feel free to reach out. I'm always eager to collaborate and learn!

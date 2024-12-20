@@ -6,18 +6,6 @@ I'm passionate about dev ops, machine learning, cyber security and quantum compu
 - 🎓 Computer Science student with a focus on dev ops and data science.
 - 💡 Interested in building innovative solutions for real-world problems.
 
-## 🚀 Projects
-Here are some of the projects I'm working on or have completed:
-
-### 🌟 Featured Projects
-- **[Dynamic Scheduling System for Healthcare](#)**: Optimized shift and leave management system with Angular, Spring Boot, and Firebase.
-- **Real-Time Event Ticketing System**: Command-line tool for booking and managing event tickets.
-- **Loan Fraud Detection Project**: Leveraging ML to detect anomalies in loan applications.
-
-### 🧪 Experiments and Research
-- Building a personal AI assistant using open-source LLaMA.
-- Exploring quantum computing applications in AI.
-
 ## 💻 Skills
 - **Languages**: Python, Java, JavaScript, SQL
 - **Frameworks & Tools**: Angular, Spring Boot, Flask, TensorFlow, Firebase

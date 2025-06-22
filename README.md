@@ -1,6 +1,6 @@
 # Hi there! I'm Punjitha, aka algotyrnt. 👋
 
-I'm a computer science enthusiast with a passion for turning ideas into powerful solutions. I love breaking things to understand how they work and often find myself diving deep into the rabbit holes of theoretical computer science.
+I'm a computer science undergraduate with a passion for turning ideas into powerful solutions. I love breaking things to understand how they work and often find myself diving deep into the rabbit holes of theoretical computer science.
 
 Beyond development, I am strongly interested in research and development. I love exploring cutting-edge technologies, experimenting with new ideas, and pushing the boundaries of what's possible.
 

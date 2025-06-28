@@ -6,7 +6,7 @@ Beyond that, I am deeply interested in research and development. I love explorin
 
 When I’m not coding, you’ll probably find me geeking out over a new TV series, vibing to music, or immersed in an audiobook. 
 #
-[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://tyrnt.co) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/algotyrnt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/algotyrnt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punjitha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tyrnt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@algotyrnt) 
+[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://tyrnt.co)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punjitha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tyrnt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@algotyrnt) 
 
 ---
 
